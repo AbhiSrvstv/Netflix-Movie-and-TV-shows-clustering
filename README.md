@@ -104,7 +104,7 @@ Following conclusion were drawn -
 ## 🚀 About Me
 
 
-- 👋 Hi, I’m Abhishek, a curious Data Dcientist
+- 👋 Hi, I’m Abhishek, a curious Data Scientist
 - 👀 I’m currently working on Machine Learning projects.
 - 🌱 I’m currently learning various machine learning models and deep learning techniques.
 - 💞️ I’m would love to collaborate on Machine Learning projects.
